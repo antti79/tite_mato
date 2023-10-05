@@ -10,6 +10,8 @@ CELL_SIZE = 20
 GRID_WIDTH = 20
 GRID_HEIGHT = 15
 
+
+
 class SnakeGame(QGraphicsView):
     def __init__(self):
         super().__init__()
